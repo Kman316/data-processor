@@ -1,5 +1,9 @@
 # data-processor
 
+
+https://github.com/user-attachments/assets/11b1a779-7c63-4131-913c-ae4e530e8665
+
+
 This application allows users to upload CSV or Excel files, identify patterns in text columns using natural language input, and replace the matched patterns. The frontend is built using React, and the backend is built using Django.
 Features
 
@@ -21,7 +25,7 @@ Backend Setup (Django)
 
     Clone the repository:
 
-git clone https://github.com/yourusername/data-processor.git
+git clone https://github.com/Kman316/data-processor.git
 cd data-processor
 
 
